@@ -1,3 +1,4 @@
+--hello
 print('init.lua ver 1.2')
 wifi.setmode(wifi.STATIONAP)
 print('set mode=STATION (mode='..wifi.getmode()..')')
